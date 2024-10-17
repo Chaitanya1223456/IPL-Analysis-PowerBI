@@ -2,6 +2,8 @@
 This project presents a detailed analysis of the 2022 IPL season using Power BI. The dashboard is designed to provide key insights into the tournament, such as team performance, player statistics, and venue-specific outcomes. The interactive elements allow users to explore various aspects of the IPL season.
 ### Output PowerBI Interface
 ![Output_PowerBI](images/powerBI.jpg)
+### Model View of the Dashboard
+![Model_view](images/table.jpg)
 ## Key Features
 ### 1. Season Overview
 - **Title Winner**: Displays the IPL 2022 winner - Gujarat Titans.
